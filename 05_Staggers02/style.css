@@ -1,0 +1,11 @@
+.my-cont{
+    border: 1px solid black;
+    max-width: 600px;
+    display: flow-root;
+}
+.box{
+    width: 100px;
+    height:100px;
+    margin: 0px 1.5% 1.5% 0px;
+    float: left;
+}

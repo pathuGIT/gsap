@@ -3,11 +3,14 @@
     height: 200vh;
     flex-direction: column;
     justify-content: space-between;
-    align-items: center;
+    align-items: left;
 }
 .box{
     width: 100px;
     height: 100px;
+    background-color: rgb(40, 130, 133);
+    margin:100px;
+}
+.b{
     background-color: red;
-    margin-top:100px;
 }
